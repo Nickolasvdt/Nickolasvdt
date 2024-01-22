@@ -10,7 +10,7 @@
 
 ### Tecnologias utilizadas
 
-![Top Langs](https://github-readme-stats-nickolas-projects-6fa8177d.vercel.app/api/top-langs/?username=nickolasvdt)
+![Top Langs](https://github-readme-stats-theta-five-71.vercel.app/api/top-langs/?username=nickolasvdt)
 
 <div style="display: inline_block">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
