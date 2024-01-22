@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickolas-vidoto-782824213/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GSuRM9vQGQ)
 
-![Nickolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolasvdt&show_icons=true&theme=tokyonight)
+![Nickolas' GitHub stats](https://github-readme-stats-nickolas-projects-6fa8177d.vercel.app/api?username=nickolasvdt&show_icons=true&theme=tokyonight)
 
 ### Tecnologias utilizadas
 
