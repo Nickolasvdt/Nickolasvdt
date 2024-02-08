@@ -8,6 +8,8 @@
 
 ![Nickolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolasvdt&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasvdt&hide_progress=true)
+
 ### Tecnologias utilizadas
 
 <div style="display: inline_block">
