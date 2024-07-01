@@ -4,6 +4,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nickolasvdt/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickolas-vidoto-782824213/)
+<a href="https://www.linkedin.com/in/nickolas-vidoto-782824213/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GSuRM9vQGQ)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasvdt&hide_progress=false)
